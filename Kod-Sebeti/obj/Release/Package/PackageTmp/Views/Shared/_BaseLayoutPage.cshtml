@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/myStyle.css" rel="stylesheet" />
+    <link href="~/icon.png" rel="icon" />
+    <title>Kod-Səbəti | @ViewBag.Title</title>
+</head>
+<body>
+    <div>
+        <div>
+            @RenderBody()
+        </div>
+        <div class="container-fluid" id="leftNav0" style="display:none;">
+            <div>
+                <div id="leftNav1">
+                    <div id="upArrow">
+                        <div style="text-align:right;background-color:white;border-style:none;padding-right:0px;padding-bottom:0px;">
+                            <a href="#" style="font-weight:bolder;font-size:20px" onclick="HideLeftBar()"><span class="glyphicon glyphicon-chevron-left"></span></a>
+                        </div>
+                    </div>
+
+                    <div class="content">
+                        <div class="hd"><a href='@Url.Action("Index","Blog")'>Əsas səhifə</a></div>
+                        <div class="hd"><a href="#">C#</a></div>
+                        <div class="hd"><a href="#">Ümumi</a></div>
+                    </div>
+
+                    <div id="bottomArrow" style="display:none">
+                        <div style="text-align:right;background-color:white;border-style:none;padding-right:0px;padding-bottom:0px;">
+                            <a href="#" style="font-weight:bolder;font-size:20px"><span class="glyphicon glyphicon-chevron-right"></span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="~/Scripts/LeftbarScript.js"></script>
+    <script src="~/Scripts/jquery-1.9.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>

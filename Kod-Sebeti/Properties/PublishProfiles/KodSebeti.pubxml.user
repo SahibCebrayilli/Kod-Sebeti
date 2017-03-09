@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <_PublishTargetUrl>ftp://ftp.smarterasp.net/site1/</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Kod_Sebeti.dll">
+      <publishTime>03/02/2017 02:27:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>03/01/2017 20:41:06</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Mvc.FixedDisplayModes.dll">
+      <publishTime>03/01/2017 20:41:10</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/01/2017 20:41:03</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>03/01/2017 20:41:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>03/01/2017 20:41:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>03/01/2017 20:41:11</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>03/01/2017 20:41:12</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>03/01/2017 20:41:09</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>03/01/2017 20:41:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>03/01/2017 20:41:07</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>03/01/2017 20:41:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>03/01/2017 20:41:08</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>03/01/2017 20:45:18</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css.map">
+      <publishTime>03/01/2017 20:45:18</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>03/01/2017 20:45:18</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css.map">
+      <publishTime>03/01/2017 20:45:18</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>03/01/2017 20:45:18</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>03/01/2017 20:45:18</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>03/01/2017 20:45:18</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css.map">
+      <publishTime>03/01/2017 20:45:18</publishTime>
+    </File>
+    <File Include="Content/myStyle.css">
+      <publishTime>03/02/2017 02:09:45</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>03/01/2017 20:45:18</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>03/01/2017 20:45:18</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>03/01/2017 20:45:18</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>03/01/2017 20:45:18</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>03/01/2017 20:45:18</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/01/2017 20:40:52</publishTime>
+    </File>
+    <File Include="icon.png">
+      <publishTime>03/02/2017 02:25:39</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/01/2017 20:45:18</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>03/01/2017 20:45:18</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>03/01/2017 20:45:18</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.js">
+      <publishTime>03/01/2017 20:45:17</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.js">
+      <publishTime>03/01/2017 20:45:17</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.map">
+      <publishTime>03/01/2017 20:45:16</publishTime>
+    </File>
+    <File Include="Scripts/LeftbarScript.js">
+      <publishTime>03/02/2017 02:09:50</publishTime>
+    </File>
+    <File Include="Views/Blog/Index.cshtml">
+      <publishTime>03/02/2017 02:23:45</publishTime>
+    </File>
+    <File Include="Views/Error/Default.cshtml">
+      <publishTime>03/01/2017 20:52:50</publishTime>
+    </File>
+    <File Include="Views/Error/NotFound.cshtml">
+      <publishTime>03/01/2017 20:52:14</publishTime>
+    </File>
+    <File Include="Views/Shared/_BaseLayoutPage.cshtml">
+      <publishTime>03/02/2017 02:26:38</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>03/01/2017 20:40:52</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/02/2017 02:15:53</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
