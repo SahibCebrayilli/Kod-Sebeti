@@ -13,5 +13,11 @@ namespace Kod_Sebeti.Controllers
         {
             return View();
         }
+
+        public ActionResult CSharp()
+        {
+            return View();
+        }
+
     }
 }

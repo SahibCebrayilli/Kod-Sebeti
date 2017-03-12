@@ -23,6 +23,6 @@ c:\users\sahib\documents\visual studio 2013\Projects\Kod-Sebeti\Kod-Sebeti\bin\S
 c:\users\sahib\documents\visual studio 2013\Projects\Kod-Sebeti\Kod-Sebeti\bin\System.Web.WebPages.xml
 c:\users\sahib\documents\visual studio 2013\Projects\Kod-Sebeti\Kod-Sebeti\bin\System.Web.WebPages.Deployment.xml
 c:\users\sahib\documents\visual studio 2013\Projects\Kod-Sebeti\Kod-Sebeti\bin\System.Web.WebPages.Razor.xml
-c:\users\sahib\documents\visual studio 2013\Projects\Kod-Sebeti\Kod-Sebeti\obj\Debug\Kod_Sebeti.csprojResolveAssemblyReference.cache
 c:\users\sahib\documents\visual studio 2013\Projects\Kod-Sebeti\Kod-Sebeti\obj\Debug\Kod_Sebeti.dll
 c:\users\sahib\documents\visual studio 2013\Projects\Kod-Sebeti\Kod-Sebeti\obj\Debug\Kod_Sebeti.pdb
+C:\Users\Sahib\Documents\Visual Studio 2013\Projects\Kod-Sebeti\Kod-Sebeti\obj\Debug\Kod_Sebeti.csprojResolveAssemblyReference.cache

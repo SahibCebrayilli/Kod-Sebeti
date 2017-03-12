@@ -157,6 +157,7 @@
     <Content Include="Views\Error\Default.cshtml" />
     <Content Include="Views\Error\NotFound.cshtml" />
     <Content Include="Views\Blog\Index.cshtml" />
+    <Content Include="Views\Blog\CSharp.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
